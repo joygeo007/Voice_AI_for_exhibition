@@ -1,0 +1,34 @@
+# Exhibition Title: The Odyssey of Code: From Abacus to AI
+
+## Introduction
+Welcome to "The Odyssey of Code," a journey through the history and future of computing. This exhibition explores how humanity has built machines to think, calculate, and dream.
+
+## Section 1: The Pioneers (Room A)
+- **The Antikythera Mechanism (150 BC)**: Often called the first analog computer, used by ancient Greeks to predict astronomical positions.
+- **Ada Lovelace & The Analytical Engine (1843)**: Ada Lovelace is considered the first computer programmer. She wrote an algorithm for Charles Babbage's mechanical general-purpose computer, the Analytical Engine, realizing it could do more than just math.
+- **ENIAC (1945)**: The first electronic general-purpose digital computer. It filled an entire room (1,800 sq ft) and used 18,000 vacuum tubes.
+
+## Section 2: The Silicon Revolution (Room B)
+- **The Transistor (1947)**: Invented at Bell Labs, this tiny switch replaced bulky vacuum tubes, paving the way for modern electronics.
+- **The Personal Computer Era (1970s-80s)**: The Apple II and IBM PC brought computing into homes. The GUI (Graphical User Interface) changed how we interact with machines forever.
+- **The Internet (1990s)**: The World Wide Web, invented by Tim Berners-Lee, connected the globe.
+
+## Section 3: The Age of AI (Main Hall)
+- **Machine Learning**: Computers learning from data without explicit programming.
+- **Neural Networks**: Inspired by the human brain, these layered algorithms drive today's AI breakthroughs.
+- **Generative AI**: Models like Gemini that can create text, images, and code. This very station is powered by such technology!
+
+## Interactive Station: The "Emotion Detector"
+- Located in the corner of the Main Hall.
+- Uses computer vision to analyze facial expressions in real-time.
+- Demonstrates how AI can interpret human non-verbal communication.
+
+## Fun Facts
+- The first computer bug was a literal moth found trapped in a relay of the Harvard Mark II computer in 1947.
+- There are more possible iterations of a game of chess than there are atoms in the observable universe.
+- The Apollo 11 guidance computer had less processing power than a modern toaster.
+
+## Emergency Info
+- Restrooms are located near the entrance of Room A.
+- The cafeteria is on the second floor.
+- In case of emergency, follow the green exit signs to the nearest stairwell.
